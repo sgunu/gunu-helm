@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sample1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-01T14:33:14.043809-08:00"
+    description: A Helm chart for Kubernetes
+    digest: d874a7158587bc9d35558c2af080edda419736a5d30704c7d84ad96f96009497
+    name: sample1
+    type: application
+    urls:
+    - https://github.com/sgunu/gunu-helm.git/sample1-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-01T14:33:14.040565-08:00"
